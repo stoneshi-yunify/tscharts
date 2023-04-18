@@ -9,7 +9,7 @@
 # when the hash of the last commit in the branch you set up changes. This does
 # NOT apply to ownership claim operations, which are processed immediately.
 #
-repositoryID: stoneshi-tscharts
+repositoryID: 7dc490c2-e0ed-4b4d-be88-d8213c00d059
 owners:
   - name: stoneshi-yunify
     email: stoneshi@kubesphere.io
